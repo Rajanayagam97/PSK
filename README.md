@@ -132,11 +132,12 @@ plt.show()
 # Output Waveform
 
 # PSK
-<img width="978" height="887" alt="image" src="https://github.com/user-attachments/assets/05890142-edea-4e09-8850-e7f5ba845986" />
+<img width="978" height="887" alt="image" src="https://github.com/user-attachments/assets/bb892a95-6bba-47b6-8bc8-e855da087f11" />
+
 
 # QPSK
 
-<img width="989" height="789" alt="image" src="https://github.com/user-attachments/assets/b2018911-39a7-4c62-b4e6-90343eb92724" />
+<img width="989" height="789" alt="image" src="https://github.com/user-attachments/assets/66f43187-4b30-43c1-b99f-b912b2bf6908" />
 
 # Results
 ```
